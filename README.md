@@ -13,15 +13,10 @@ Piano-Web é um projeto desenvolvido através de um **video de MasterClass** da 
 </h3>
 
 
-## **:target: OBJETIVO**
+## **:rocket: OBJETIVO**
 
 O projeto tem como finalidade **estudar métodos que permitem acesso à árvore, para que eles possam alterar a estrutura, estilo e conteúdo do documento** diretamente no Front-end através do **JavaScript**.
 
-<!--
-  ...
-  Local Reservado para o GIF do projeto rodando.
-  ...
--->
 
 
 #### **:computer: Utilitários**
@@ -30,12 +25,11 @@ O projeto tem como finalidade **estudar métodos que permitem acesso à árvore,
 
 
 
-
 ## **AGRADECIMENTOS**
 
 <div align=center>
 
-<table style="width:100%" align=center>
+<table style="width:100%">
   <tr align=center>
     <th><strong><center>Rocketseat</center></strong></th>
     <th><strong><center>Maykbrito</center></strong></th>
