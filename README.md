@@ -24,7 +24,8 @@ O projeto tem como finalidade **estudar métodos que permitem acesso à árvore,
 - **Veja funcionando: &rarr; <kbd>[Piano Web](https://piano-web.netlify.app/)</kbd>**
 
 
-## **:gem: Um "algo mais"**
+## **:gem: Um "algo a mais"**
+Adicionei no topo do piano uma **caixa flutuante** que exibe as notas pressionadas/clicadas com um efeito de fade.
 
 
 
