@@ -13,7 +13,7 @@ Piano-Web é um projeto desenvolvido através de um **video de MasterClass** da 
 </h3>
 
 
-## **:rocket: OBJETIVO**
+## **:target: OBJETIVO**
 
 O projeto tem como finalidade **estudar métodos que permitem acesso à árvore, para que eles possam alterar a estrutura, estilo e conteúdo do documento** diretamente no Front-end através do **JavaScript**.
 
@@ -26,7 +26,7 @@ O projeto tem como finalidade **estudar métodos que permitem acesso à árvore,
 
 #### **:computer: Utilitários**
 
-- Veja funcionando: &rarr; **<kbd>[Piano Web](https://piano-web.netlify.app/)</kbd>**
+- **Veja funcionando: &rarr; <kbd>[Piano Web](https://piano-web.netlify.app/)</kbd>**
 
 
 
@@ -35,7 +35,7 @@ O projeto tem como finalidade **estudar métodos que permitem acesso à árvore,
 
 <div align=center>
 
-<table style="width:100%">
+<table style="width:100%" align=center>
   <tr align=center>
     <th><strong><center>Rocketseat</center></strong></th>
     <th><strong><center>Maykbrito</center></strong></th>
